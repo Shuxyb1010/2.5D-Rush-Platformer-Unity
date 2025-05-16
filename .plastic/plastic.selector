@@ -1,0 +1,4 @@
+repository "Rush Platform/Rush Platform@5773278993469@cloud"
+  path "/"
+    br "/main"
+    co "/main"

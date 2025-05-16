@@ -1,0 +1,49 @@
+BELOW ARE THE REFERENCES OF ALL THE ASSETS THAT I HAVE USED:
+
+- Robot Hero : PBR HP Polyart 
+Link: https://assetstore.unity.com/packages/p/robot-hero-pbr-hp-polyart-106154
+
+- Warped Shooting Fx
+Link: https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246
+
+- Meshtint Free Knight
+Link: https://assetstore.unity.com/packages/p/meshtint-free-knight-133286
+
+- Hyper-Casual Obstacle Pack
+Link: https://assetstore.unity.com/packages/p/hyper-casual-obstacle-pack-221375
+
+- Shooting Sound
+Link: https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
+
+- Fantasy Skybox FREE
+Link: https://assetstore.unity.com/packages/p/fantasy-skybox-free-18353
+
+- Asian Forests - Stylized Trees
+Link: https://assetstore.unity.com/packages/p/asian-forests-stylized-trees-225842
+
+- Environment Pack - Rocks Stylized
+Link: https://assetstore.unity.com/packages/p/environment-pack-rocks-stylized-316250
+
+- 2D Simple UI Pack
+Link: https://assetstore.unity.com/packages/p/2d-simple-ui-pack-218050
+
+- Pirate Coin
+Link: https://assetstore.unity.com/packages/3d/props/pirate-coin-207743
+
+- Stylized low poly sand block
+Link: https://sketchfab.com/3d-models/stylized-low-poly-sand-block-4739b8843eb942bb918d684055b1cfba
+
+- Stylized low poly stone block
+Link: https://sketchfab.com/3d-models/stylized-low-poly-stone-block-8e0ed57a0c204e938437f798f05ae57d
+
+
+
+I HAVE ALSO REFERENCED FROM TUTORIALS TO HELP ME UNDERSTAND CONCEPTS/CODING BETTER: 
+- https://www.youtube.com/watch?v=jHQriVyEH28
+- https://www.youtube.com/watch?v=d002CljR-KU&list=WL&index=199&t=25s
+- https://www.youtube.com/watch?v=zHSWG05byEc
+- https://www.youtube.com/watch?v=1mf730eb5Wo&t=999s
+- https://www.youtube.com/watch?v=DX7HyN7oJjE&t=39s&pp=ygUMbWFpbiBtZW51IHVp
+- https://www.youtube.com/watch?v=_jtj73lu2Ko&t=307s&pp=ygUKdWkgdG9vbGtpdA%3D%3D
+- https://www.youtube.com/watch?v=UjkSFoLxesw&t=96s&pp=ygUOZW5lbXkgYWkgdW5pdHk%3D
+- https://www.youtube.com/watch?v=Sls8zlONwRk&list=PLeuRL1NJCwvLswHSlBi0T5lyPNje8pgvY&index=1&pp=iAQB
